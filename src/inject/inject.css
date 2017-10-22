@@ -1,0 +1,24 @@
+.hidden {
+  display: none;
+  color: red !important;
+}
+
+/* changes color like button*/
+#notificationsCountValue {
+  background-color: black;
+}
+
+/* hides like button */
+.UFILikeLink {
+  display: none !important;
+}
+
+/* hides like display, e.g. how much likes */
+.UFILikeSentence {
+  display: none !important;
+}
+
+/* hides likes on comments */
+.UFICommentReactionsBling {
+  display: none !important;
+}
